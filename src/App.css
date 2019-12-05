@@ -1,11 +1,12 @@
 .App {
   text-align: center;
+  color:blueviolet;
 }
 
-.Nav-link {
-  padding: 2rem;
-}
 
-.nav-item {
-  margin-top: 1rem;
+div a {
+  color:blueviolet;
+  font-size: large;
+  padding:2rem;
+  margin-top:1rem;
 }
